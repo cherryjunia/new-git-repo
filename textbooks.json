@@ -14,5 +14,9 @@
     {
     "id": 4,
     "name": "File to Destroy"
+  },
+  {
+    "id": 5,
+    "name": "File to add"
   }
 ]
